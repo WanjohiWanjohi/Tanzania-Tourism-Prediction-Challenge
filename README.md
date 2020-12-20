@@ -1,2 +1,3 @@
 # Tanzania-Tourism-Prediction-Challenge
-This repository contains the notebooks used for the Zindi Challenge to predic the amount of money spent by a tourist in Tanzania
+This repository contains the notebook used for the Zindi Challenge to accurately predict the amount of money spent by a tourist in Tanzania using  up-to-date information on tourist expenditure collected by the National Bureau of Statistics (NBS) in Tanzania as described in the Zindi hackathon brief here: https://zindi.africa/hackathons/kenya-hack-tanzania-tourism-prediction-challenge
+With the evaluation metric of mean squared error, running the notebook as is gives a score of 4614358.85399001 and more hyperparemeter tuning can definitely improve the perfomance.
